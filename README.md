@@ -5,4 +5,4 @@ in Visual Studio 2015 so this should be pretty obsolete by now but I keep gettin
 
 The addin is available at
 [the Visual Studio Markerplace](https://marketplace.visualstudio.com/items?itemName=Karl-JohanSjogrenShorthandSoftware.ShorthandJsonVisualizer)
-if you do not want to compile it yourself. I seem to have lost access to the account for that page though so I can't updated it anymore.
+if you do not want to compile it yourself.

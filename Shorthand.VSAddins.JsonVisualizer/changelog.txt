@@ -1,0 +1,17 @@
+﻿2014-02-16
+-Fixes for Visual Studio 2013
+
+2013-08-01
+-Updated the installer so it doesn't assume where Visual Studio is installed and checks the registry instead.
+-Fixed problem when using the color selector for the Number-type.
+-Updated sample json in settings dialog.
+-Fixed bug when reloading json after changing settings.
+
+2013-06-17
+-Fixed a stupid bug that always showed the debug json.
+-Version 1.2 released.
+
+2013-05-02
+-Fixed bug that broke the json parsing if it contained tabs or linebreaks.
+-Added a dialog to change the colors in the preview.
+-Version 1.1 released.

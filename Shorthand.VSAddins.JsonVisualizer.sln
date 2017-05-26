@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shorthand.VSAddins.JsonVisualizer", "Shorthand.VSAddins.JsonVisualizer\Shorthand.VSAddins.JsonVisualizer.csproj", "{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shorthand.VSAddins.TestForm", "Shorthand.VSAddins.TestForm\Shorthand.VSAddins.TestForm.csproj", "{C8E1CBA8-B610-46E6-A19E-340B140E283E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MSBuild", "MSBuild", "{EDD43F7D-9EAF-4A54-9F5E-9C01A451457A}"
+	ProjectSection(SolutionItems) = preProject
+		Release.msbuild = Release.msbuild
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Release-2008|Any CPU = Release-2008|Any CPU
+		Release-2010|Any CPU = Release-2010|Any CPU
+		Release-2012|Any CPU = Release-2012|Any CPU
+		Release-2013|Any CPU = Release-2013|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2008|Any CPU.ActiveCfg = Release-2008|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2008|Any CPU.Build.0 = Release-2008|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2010|Any CPU.ActiveCfg = Release-2010|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2010|Any CPU.Build.0 = Release-2010|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2012|Any CPU.ActiveCfg = Release-2012|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2012|Any CPU.Build.0 = Release-2012|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2013|Any CPU.ActiveCfg = Release-2013|Any CPU
+		{E4E16FDB-0E86-42DE-9FC0-399D77EB14E4}.Release-2013|Any CPU.Build.0 = Release-2013|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2008|Any CPU.ActiveCfg = Release-2008|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2008|Any CPU.Build.0 = Release-2008|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2010|Any CPU.ActiveCfg = Release-2010|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2010|Any CPU.Build.0 = Release-2010|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2012|Any CPU.ActiveCfg = Release-2012|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2012|Any CPU.Build.0 = Release-2012|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2013|Any CPU.ActiveCfg = Release-2012|Any CPU
+		{C8E1CBA8-B610-46E6-A19E-340B140E283E}.Release-2013|Any CPU.Build.0 = Release-2012|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
